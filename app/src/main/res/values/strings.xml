@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="series_x">Series %d</string>
+</resources>
